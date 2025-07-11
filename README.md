@@ -1,4 +1,4 @@
-# caesar_encoding
+# caesar-encoding
 
 function x = caesar(character, num)
   val = double(character);
